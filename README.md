@@ -6,7 +6,7 @@ matplotlib, numpy, and statsmodels.api packages with linear regression technique
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+When you run MLS GAME DATA.py it will create the graphs and run the regressions from the data.
 
 ### Prerequisites
 
