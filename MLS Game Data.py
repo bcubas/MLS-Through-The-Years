@@ -26,7 +26,7 @@ numTeamsByYear =[]
 # df['hwins'] = np.select(conditions, choices, default=pd.np.NaN)
 
 #count up total goals and wins (home and away) scored each year
-for year in range(1996, 2017):
+for year in range(1996,2017):
     hGoals.append(df.loc[year, 'hgoal'].sum())
     vGoals.append(df.loc[year, 'vgoal'].sum())
     years.append(year)
